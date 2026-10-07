@@ -1,3 +1,16 @@
+Please consider using this: https://github.com/aryan-nikzad/rx580_vbios_loader_git , this one here is not maintained anymore
+
+
+
+
+
+
+
+
+
+
+
+
 RX 580 vBIOS loader  -  UEFI app that brings up an AMD Polaris GPU whose SPI ROM chip is dead
 =============================================================================================
 
